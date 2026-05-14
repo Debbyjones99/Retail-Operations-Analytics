@@ -1,6 +1,5 @@
 -- customer lifetime value vs sku profitability 
 
-
  with customer_ltv as (
  select 
  	sum(net_revenue) as total_revenue,
