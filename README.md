@@ -16,12 +16,12 @@
 - Data Limitation  
 - Contact
 
-##Project Overview
+## Project Overview
 This project analyzes retail and operational performance data from 2016–2022 to uncover trends in business growth, product performance, supplier reliability, channel efficiency, customer purchasing behavior, and inventory management.
 The analysis focuses on identifying key revenue drivers, evaluating supplier and procurement performance, monitoring inventory health, and generating actionable business insights through data visualization and analytics.
 
 
-##Business Objectives
+## Business Objectives
 * Analyze year-over-year business growth and revenue trends
 * Evaluate product and category performance across the analysis period
 * Measure SKU-level profitability after incorporating landed costs
@@ -33,7 +33,7 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 * Analyze customer purchasing behavior and revenue contribution patterns
 
 
-##Tools & Techniques
+## Tools & Techniques
 * Advanced SQL for data extraction, transformation, and analytical querying
 * Power BI for interactive dashboard development and business visualization
 * Advanced DAX measures for KPI calculations, YOY growth analysis, procurement trends, and inventory analytics
