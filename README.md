@@ -1,5 +1,5 @@
 # Retail-Operations-Analytics
-operations data, providing insights into product performance, inventory management, supplier and procurement operations, customer behavior, and sales channel performance through interactive dashboards and business analytics
+This project analyzes seven years of retail operations data, providing insights into product performance, inventory management, supplier and procurement operations, customer behavior, and sales channel performance through interactive dashboards and business analytics.
 
 ## Table of Contents
 - Project Overview  
