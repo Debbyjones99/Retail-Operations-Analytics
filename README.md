@@ -71,3 +71,18 @@ Yearly Performance Trend
 * 2022 recorded the highest sales quantity (48K units) and strongest overall revenue performance.
 * Sales consistently peaked during December, indicating strong seasonal demand patterns.
 
+### Product & Inventory Overview
+<img width="662" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
+
+Key Insights
+* Total product returns reached 1,612 orders, representing a relatively low return rate of 1.01% across all products.
+* Decathlon Water Bottle generated the highest revenue, contributing $525,226.7 in sales.
+* Mijo Bedsheets Set Single generated the lowest revenue at $1.083.4
+* Most products maintained healthy inventory levels; however, Nescafé Bottled Water 1.5L and Mijo Bedsheets Set Single showed low stock availability, indicating potential stockout risk.
+* Persil Air Freshener 300ml recorded the highest product returns with 90 returned units, suggesting possible quality or customer satisfaction concerns.
+
+Yearly Inventory Insight
+* Inventory analysis revealed a high number of stockout cases in 2016, likely due to early-stage operational limitations and weaker inventory planning.
+* By 2022, stock management efficiency improved significantly, with only one product experiencing stockout, indicating stronger inventory control and supply planning processes.
+
+
