@@ -72,7 +72,7 @@ Yearly Performance Trend
 * Sales consistently peaked during December, indicating strong seasonal demand patterns.
 
 ### Product & Inventory Overview
-<img width="662" height="372" alt="Prouct&inventory_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
+<img width="662" height="372" alt="Prouct_inventory_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
 
 Key Insights
 * Total product returns reached 1,612 orders, representing a relatively low return rate of 1.01% across all products.
@@ -84,5 +84,30 @@ Key Insights
 Yearly Inventory Insight
 * Inventory analysis revealed a high number of stockout cases in 2016, likely due to early-stage operational limitations and weaker inventory planning.
 * By 2022, stock management efficiency improved significantly, with only one product experiencing stockout, indicating stronger inventory control and supply planning processes.
+
+### Supplier Performance & Procurement Analytics
+<img width="662" height="372" alt="Supplier_procurement_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Supplier%20dashboard.png" />
+
+Key Insights
+* A total of 1,063purchase orders experienced delivery delays, highlighting potential supplier and logistics inefficiencies.
+* The business recorded an average supplier lead time of 68.52 days, indicating relatively long procurement cycles.
+* Average landed cost across all purchase orders was approximately $88.51 per unit.
+* Maker Innovations Electronics emerged as the top-performing vendor, generating $558,937 in sales revenue. Notably, the supplier provided the Decathlon Water Bottle, which was also identified as the highest revenue-generating product, showing a strong supplier-to-product revenue correlation.
+* Procter & Gamble EMEA generated the lowest supplier-related sales revenue at $6.478.6.
+* Procurement activity peaked in March, with a total of 384 purchase orders, making it the busiest procurement month across the analysis period.
+
+Yearly Procurement Insights
+* 2019 recorded the highest number of delayed purchase orders, suggesting operational or supplier fulfillment challenges during that year.
+* 2017 had the highest average supplier lead time, indicating slower procurement and delivery performance compared to other years.
+
+
+### Channel & Customer Insights
+<img width="662" height="372" alt="Supplier_procurement_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Channel%20Performance.png" />
+
+Key Insights
+* The Value Customer segment generated the highest revenue contribution, accounting for approximately $2.1M in total sales.
+* The Amazon sales channel recorded the highest number of product returns (509 returns), which aligns with its position as the highest-performing sales channel by overall sales volume.
+* Amazon also contributed the highest revenue and sales quantity across all channels, reinforcing its importance as the business’s primary sales platform.
+* Credit Card was the most frequently used payment method and generated the highest share of total revenue, indicating strong customer preference for card-based transactions.
 
 
