@@ -64,7 +64,7 @@ Key Insights
 * Amazon was the top-performing sales channel, contributing approximately 40% of total revenue.
 * Sports & Lifestyle generated the highest revenue across most years.
 * Credit card transactions accounted for the highest share of revenue among payment methods.
-* Customers in the “Under Value” segment contributed nearly 40% of total revenue.
+* Customers in “Value” segment contributed nearly 40% of total revenue.
 
 Yearly Performance Trend
 * Revenue grew significantly from $365.9k in 2016 to $884.5K in 2022.
