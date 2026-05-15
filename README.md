@@ -52,7 +52,7 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 ### Executive Dashboard Overview
 This dashboard provides a high-level overview of business performance from 2016–2022, focusing on revenue growth, customer behaviour, sales channels, and purchasing trends.
 
-<img width="662" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG" />
+<img width="900" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG" />
 
 Key Metrics
 * Total Revenue: $5.1M
