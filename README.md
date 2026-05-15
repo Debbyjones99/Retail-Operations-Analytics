@@ -5,12 +5,11 @@ operations data, providing insights into product performance, inventory manageme
 - Project Overview  
 - Business Objectives  
 - Dataset  
-- Tools &   Methodology  
-- Executive Dashboard  
-- Customer Analysis  
-- Product Analysis  
-- User Performance  
-- ⁠Retention Analysis 
+- Tools & Methodology  
+- Executive Dashboard Overview
+- Product & Inventory Overview 
+- Supplier Performance & Procurement Analytics
+- Channel & Customer Insights
 - Key Findings  
 - Recommendations  
 - ⁠Project demonstrations 
