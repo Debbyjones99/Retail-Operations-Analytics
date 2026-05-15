@@ -33,7 +33,7 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 * Analyze customer purchasing behavior and revenue contribution patterns
 
 ## Detaset
-<a href=https://github.com/Debbyjones99/Retail-Operations-Analytics/tree/main/Datasets > Retail-Operations-Analytics Data</a>
+* <a href=https://github.com/Debbyjones99/Retail-Operations-Analytics/tree/main/Datasets > Retail-Operations-Analytics Data</a>
 
 ## Tools & Techniques
 * Advanced SQL for data extraction, transformation, and analytical querying
@@ -46,3 +46,8 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 * Inventory and procurement analytics for stock monitoring and supplier performance evaluation
 * Conditional formatting and business-driven visual storytelling for executive dashboards
 * Power Query for data cleaning, transformation, and preprocessing
+
+### Executive Dashboard Overview
+This dashboard provides a high-level overview of business performance from 2016–2022, focusing on revenue growth, customer behaviour, sales channels, and purchasing trends.
+
+<img width="662" height="372" alt="Executive_dashboard" src="[https://github.com/user-attachments/assets/35b0eb45-2530-471b-abcc-d41af5cbf115](https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG)" />
