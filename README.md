@@ -89,7 +89,7 @@ Yearly Inventory Insight
 <img width="662" height="372" alt="Supplier_procurement_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Supplier%20dashboard.png" />
 
 Key Insights
-* A total of 1,063purchase orders experienced delivery delays, highlighting potential supplier and logistics inefficiencies.
+* A total of 1,063 purchase orders experienced delivery delays, highlighting potential supplier and logistics inefficiencies.
 * The business recorded an average supplier lead time of 68.52 days, indicating relatively long procurement cycles.
 * Average landed cost across all purchase orders was approximately $88.51 per unit.
 * Maker Innovations Electronics emerged as the top-performing vendor, generating $558,937 in sales revenue. Notably, the supplier provided the Decathlon Water Bottle, which was also identified as the highest revenue-generating product, showing a strong supplier-to-product revenue correlation.
