@@ -117,5 +117,24 @@ Key Insights
 * Supplier risk analysis conducted in SQL identified **Nike Retail Partners** as the highest-risk supplier based on delivery delays, late purchase orders, and lead time performance.
 * Sales and profitability consistently peaked during **December**, revealing strong seasonal purchasing trends and holiday demand patterns.
 
+## Recommendations
+
+* Supplier risk analysis revealed that **Nike Retail Partners** recorded the highest supplier risk score (**22.276**), significantly higher than the next supplier (**14.803**). The risk score was calculated using:
+
+  * 40% Delivery Delay
+  * 30% Late Purchase Orders
+  * 30% Lead Time
+
+  Despite being one of the largest suppliers by product quantity, the supplier demonstrated substantial operational inefficiencies. In comparison, **IKEA Home Furnishings**, the highest supplier by product quantity, maintained a lower supplier risk score (**11.818**), indicating more reliable procurement performance. Supplier relationships and procurement dependency on high-risk vendors should be reviewed.
+
+* Introduce loyalty incentives and exclusive offers for **Premium Customers** to improve retention and maximize high-value customer engagement.
+
+* Implement reward programs and targeted discounts for **Value** and **Budget Customers** to encourage repeat purchases and strengthen customer loyalty.
+
+* **Decathlon Water Bottle** inventory should be restocked promptly to reduce potential stockout risk due to its strong sales performance.
+
+* Inventory levels for **Mijo Bedsheets Set Single** should be reviewed and potentially reduced due to low sales performance and weaker inventory movement.
+
+
 
 
