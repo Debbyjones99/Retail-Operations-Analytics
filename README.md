@@ -1,4 +1,5 @@
 # Retail-Operations-Analytics
+operations data, providing insights into product performance, inventory management, supplier and procurement operations, customer behavior, and sales channel performance through interactive dashboards and business analytics
 
 ## Table of Contents
 - Project Overview  
@@ -109,5 +110,12 @@ Key Insights
 * The Amazon sales channel recorded the highest number of product returns (509 returns), which aligns with its position as the highest-performing sales channel by overall sales volume.
 * Amazon also contributed the highest revenue and sales quantity across all channels, reinforcing its importance as the business’s primary sales platform.
 * Credit Card was the most frequently used payment method and generated the highest share of total revenue, indicating strong customer preference for card-based transactions.
+
+## Business Insights
+
+* Revenue increased by over **141.7%** from the first year of operations, indicating significant business growth over the analysis period.
+* Supplier risk analysis conducted in SQL identified **Nike Retail Partners** as the highest-risk supplier based on delivery delays, late purchase orders, and lead time performance.
+* Sales and profitability consistently peaked during **December**, revealing strong seasonal purchasing trends and holiday demand patterns.
+
 
 
