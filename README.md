@@ -135,6 +135,26 @@ Key Insights
 
 * Inventory levels for **Mijo Bedsheets Set Single** should be reviewed and potentially reduced due to low sales performance and weaker inventory movement.
 
+## What This Project Demonstrates
+•	End-to-end retail and operations analytics using SQL and Power BI 
+•	Advanced DAX calculations for KPI development, YOY growth analysis, inventory monitoring, and supplier performance evaluation 
+•	Multi-fact star schema data modeling across sales, procurement, and inventory datasets 
+•	Business intelligence reporting through interactive executive dashboards and operational analytics 
+•	Supplier risk analysis using procurement metrics such as delivery delays, lead times, and late purchase orders 
+•	Inventory and stockout analysis for operational efficiency monitoring 
+•	Customer segmentation and channel performance analysis for revenue optimization 
+•	Data storytelling and business-driven insight generation through visual analytics
+
+## Limitations
+•	Return analysis focused on return volumes and rates; detailed return reasons and customer satisfaction metrics were unavailable
+•	Supplier risk analysis was based on delivery delays, lead times, and late purchase orders; additional operational factors such as supplier quality ratings and contract performance were not available in the dataset. 
+
+## Contact
+
+Open to Data Analyst opportunities.
+
+- Email: deborahjonah06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deborah-jonah-220210327
 
 
 
