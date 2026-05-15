@@ -32,6 +32,8 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 * Evaluate supplier reliability based on delivery and operational performance
 * Analyze customer purchasing behavior and revenue contribution patterns
 
+## Detaset
+<a href=https://github.com/Debbyjones99/Retail-Operations-Analytics/tree/main/Datasets > Retail-Operations-Analytics Data</a>
 
 ## Tools & Techniques
 * Advanced SQL for data extraction, transformation, and analytical querying
