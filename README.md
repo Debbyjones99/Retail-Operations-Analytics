@@ -72,7 +72,7 @@ Yearly Performance Trend
 * Sales consistently peaked during December, indicating strong seasonal demand patterns.
 
 ### Product & Inventory Overview
-<img width="662" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
+<img width="662" height="372" alt="Prouct&inventory_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
 
 Key Insights
 * Total product returns reached 1,612 orders, representing a relatively low return rate of 1.01% across all products.
