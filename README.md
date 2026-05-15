@@ -47,7 +47,27 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 * Conditional formatting and business-driven visual storytelling for executive dashboards
 * Power Query for data cleaning, transformation, and preprocessing
 
+## Dashboard Overview
+
 ### Executive Dashboard Overview
 This dashboard provides a high-level overview of business performance from 2016–2022, focusing on revenue growth, customer behaviour, sales channels, and purchasing trends.
 
 <img width="662" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG" />
+
+Key Metrics
+* Total Revenue: $5.1M
+* Total Orders: 251K
+* Total Orders: 159K
+* Average Order Value (AOV): $32.5
+
+Key Insights
+* Amazon was the top-performing sales channel, contributing approximately 40% of total revenue.
+* Sports & Lifestyle generated the highest revenue across most years.
+* Credit card transactions accounted for the highest share of revenue among payment methods.
+* Customers in the “Under Value” segment contributed nearly 40% of total revenue.
+
+Yearly Performance Trend
+* Revenue grew significantly from $365.9k in 2016 to $884.5K in 2022.
+* 2022 recorded the highest sales quantity (48K units) and strongest overall revenue performance.
+* Sales consistently peaked during December, indicating strong seasonal demand patterns.
+
