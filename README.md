@@ -52,7 +52,7 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 ### Executive Dashboard Overview
 <P></P>
 This dashboard provides a high-level overview of business performance from 2016–2022, focusing on revenue growth, customer behaviour, sales channels, and purchasing trends.
-
+<P></P>
 <img width="622" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG" />
 
 Key Metrics
@@ -90,6 +90,9 @@ Yearly Inventory Insight
 * By 2022, stock management efficiency improved significantly, with only one product experiencing stockout, indicating stronger inventory control and supply planning processes.
 
 ### Supplier Performance & Procurement Analytics
+<P></P>
+This dashboard evaluates supplier reliability, procurement efficiency, delivery performance, and landed costs to monitor supply chain operations and supplier risk.
+<P></P>
 <img width="662" height="372" alt="Supplier_procurement_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Supplier%20dashboard.png" />
 
 Key Insights
@@ -106,6 +109,9 @@ Yearly Procurement Insights
 
 
 ### Channel & Customer Insights
+<P></P>
+This dashboard provides insights into customer purchasing behavior, channel performance, customer segmentation, and revenue contribution across different sales platforms.
+<P></P>
 <img width="662" height="372" alt="Supplier_procurement_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Channel%20Performance.png" />
 
 Key Insights
