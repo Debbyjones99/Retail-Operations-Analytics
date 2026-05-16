@@ -151,7 +151,7 @@ Key Insights
 
 •	Data storytelling and business-driven insight generation through visual analytics
 
-* Analyze revenue, profitability, and product performance
+• Analyze revenue, profitability, and product performance
 
 ## Limitations
 •	Return analysis focused on return volumes and rates; detailed return reasons and customer satisfaction metrics were unavailable
