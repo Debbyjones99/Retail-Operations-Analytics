@@ -50,6 +50,7 @@ The analysis focuses on identifying key revenue drivers, evaluating supplier and
 ## Dashboard Overview
 
 ### Executive Dashboard Overview
+<P></P>
 This dashboard provides a high-level overview of business performance from 2016–2022, focusing on revenue growth, customer behaviour, sales channels, and purchasing trends.
 
 <img width="622" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Executive_dashboard.PNG" />
@@ -72,6 +73,9 @@ Yearly Performance Trend
 * Sales consistently peaked during December, indicating strong seasonal demand patterns.
 
 ### Product & Inventory Overview
+<P></P>
+This dashboard analyzes SKU performance, inventory health, stock movement, and stockout risks to support inventory optimization and product-level decision-making.
+<P></P>
 <img width="662" height="372" alt="Prouct_inventory_dashboard" src="https://github.com/Debbyjones99/Retail-Operations-Analytics/blob/main/Dashboard%20Screenshots/Product_dashboard.PNG" />
 
 Key Insights
